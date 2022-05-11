@@ -4,3 +4,4 @@ Esse é a minha versão do projeto final do curso de CSs & Flexbox da DIO! Onde 
 Usamos ferramentas como flexbox e mediaquerys!
 
 Aprendi muito nesse projeto, obrigado DIO e companhia!
+https://lukiticas.github.io/Instagram_login_landpage_clone/#
